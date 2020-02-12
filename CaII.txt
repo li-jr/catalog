@@ -1,0 +1,46 @@
+Table 3
+Individual Ca II Absorbers in the Literature^a
+
+R.A.^b	Decl.^b	z_QSO	z_abs = z_gal	r_p		References^c	
+J2000	J2000	(kpc)	(Aring)	
+09:58:20	+32:24:02	0.531	0.0049 (NGC 3067)	11.4	0.17 +or- 0.05	1, 7	
+20:23:46	-36:55:20	1.048	0.0287 (Klemola 31A)	11.4	0.35 +or- 0.08	2	
+04:48:58	-20:44:46	1.894	0.067	15.7	0.96 +or- 0.25	3, 11^d	
+13:30:07	-20:56:16	1.169	0.018 (MCG-03-34-085)	14.3	0.58 +or- 0.09	4, 8	
+15:45:30	+48:46:09	0.401	0.076	64.3	0.06 +or- 0.02	8	
+02:51:34	+43:15:16	1.31	0.052	14.3	1.6 +or- 0.2^e	5, 6	
+10:02:05	+55:42:58	1.154	0.0037 (NGC 3079)	11.1	0.59 +or- 0.05	10	
+16:34:02	+39:00:00	1.084	0.3662	20.3	0.15 +or- 0.03	11	
+00:41:26	-01:43:15	1.679	0.0177 (UGC 439)	24.7	0.52 +or- 0.07	11	
+00:19:46	-10:53:13	1.518	0.347	17	0.6 +or- 0.1	12^f	
+11:18:50	-00:21:00	1.025	0.132	23.2	0.62 +or- 0.15	12	
+12:19:11	-00:43:45	2.293	0.448	7	0.57 +or- 0.08	12	
+22:46:30	+13:10:48	1.593	0.395	6	0.9 +or- 0.2	12	
+09:12:04	+59:39:57	0.774	0.212	<or~ 5^g	0.52 +or- 0.09	12	
+14:17:46	+16:25:12	1.717	0.2423	25.26	0.5 +or- 0.15	13	
+15:57:52	+34:21:40	1.267	0.1137	7.7	0.59 +or- 0.17	13	
+12:15:09	+33:09:55	0.616	0.00396	7.9	0.16 +or- 0.009	14, 16	
+21:55:01	-09:22:24	0.19	0.08091	34	0.044 +or- 0.005	14, 17	
+04:41:17	-43:13:43	0.594	0.1011	6.8	0.292 +or- 0.006	14, 18, 19, 20	
+12:32:00	-02:24:04	1.045	0.395	6.6	0.194 +or- 0.006	14, 21	
+00:13:42	-00:24:13	1.641	0.1557	3.4	1	15^h	
+00:16:37	+13:56:53	2.574	0.0912	3.8	3.5	15	
+10:05:14	+53:02:40	0.561	0.1358	3.6	0.5	15	
+12:38:46	+64:48:36	1.559	0.119	7	1.7	15	
+14:34:58	+50:41:18	1.485	0.1992	7.3	0.9	15	
+14:59:38	+37:13:14	1.219	0.1489	4.4	2.3	15	
+16:05:21	+51:07:40	1.229	0.0994	3.8	0.7	15	
+Q0117+031^i	 ... 	 ... 	0.00792 (NGC 470)	14.7	0.36 +or- 0.05	11	
+Q1015+416^i	 ... 	 ... 	0.00198 (NGC 3184)	15.7	0.1 +or- 0.03	11	
+Q0959+685^i	 ... 	 ... 	-0.0001 (M 81)	88.	0.17 +or- 0.01	11	
+
+Notes.
+a Only pairs with impact parameter larger than 3 kpc are included.
+b Quasars' coordinates.
+c References. (1) Boksenberg & Sargent 1978; (2) Boksenberg et al. 1980; (3) Blades et al. 1981; (4) Bergeron et al. 1987; (5) Womble et al. 1990; (6) Sargent & Steidel 1990; (7) Stocke et al. 1991; (8) Bowen et al. 1991; (9) Bowen 1991; (10) Womble et al. 1992; (11) Womble 1993; (12) Zych et al. 2007; (13) Cherinka & Schulte-Ladbeck 2011; (14) Richter et al. 2011; (15) York et al. 2012; (16) Miller et al. 1999; (17) Jenkins et al. 2003; (18) Petitjean et al. 1996; (19) Chen et al. 2005; (20) Chen & Lanzetta 2003; (21) Le Brun et al. 1997.
+d The measurements by Blades et al. (1981, 3) are used.
+e Sum of two components at z = 0.0515 and z = 0.0523.
+f Only measurements based on SDSS spectra in Zych et al. (2007, 12) are listed.
+g Assumed to be 5 kpc in Figure 1.
+h No errors are reported for the Ca ii measurements in York et al. (2012, 15).
+i These three pairs are not included in Figure 1 because we cannot confirm the information of the quasars given in Womble (1993, 11).
