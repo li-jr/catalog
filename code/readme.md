@@ -1,4 +1,4 @@
-Details about distribution  
+# Details about distribution  
 
 * For DLAs, I plot the histogram which presents the distribution of DLAs in redshift/z in the constrain that z<0.8. 
 
