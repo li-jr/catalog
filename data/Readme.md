@@ -16,6 +16,8 @@
 * MgII absorber:
     - paper: 	arXiv:1608.05112  
     title: Mg II absorber catalogues from SDSS quasar spectra  
-    data website: http://srini.ph.unimelb.edu.au/mgii.php
+    data website: http://srini.ph.unimelb.edu.au/mgii.php  
+## Processed data
+### I've put together the absorbers with a redshift less than 0.8
    
 
