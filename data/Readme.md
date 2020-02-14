@@ -8,7 +8,7 @@
     data website: https://academic.oup.com/mnras/article/449/2/1536/1065810  
 * CaII absorbers:  
     - paper: arXiv:1404.2649  
-    title: Ca II absorbers in the Sloan Digital Sky Survey: statistics 
+    title: Ca II absorbers in the Sloan Digital Sky Survey: statistics  
     data website: http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J/MNRAS/444/1747  
     - paper: arXiv:1304.0451  
     title: Calcium H & K Induced by Galaxy Halos   
